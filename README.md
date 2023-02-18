@@ -28,6 +28,3 @@ The code outputs the following:
 
 ## Contributing
 Contributions are welcome! If you find any bugs or issues with the code, please submit a pull request or open an issue.
-
-## License
-This code is licensed under the MIT License.
